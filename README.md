@@ -11,7 +11,7 @@ Backend developer
 * 🚀  I'm currently working on [System BovimoVet](http://www.systemBovinoVet)
 * 🧠  I'm learning Data Bases
 * 🤝  I'm open to collaborating on Backend Projects
-* ⚡  Well...I work for NASA
+* ⚡  ...
 
 ### Skills
 
