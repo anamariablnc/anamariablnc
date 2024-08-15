@@ -8,10 +8,9 @@ Backend developer
 
 * 🌍  I'm based in Colombia
 * 🖥️  See my portfolio at [MyPortafolio](http://www.)
-* 🚀  I'm currently working on [freelance)
 * 🧠  I'm learning Data Bases
-* 🤝  I'm open to collaborating on Backend Projects
-* ⚡  ...
+* 🤝  I'm open to collaborating on Projects
+
 
 ### Skills
 
